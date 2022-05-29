@@ -12,7 +12,7 @@ Project link👇
 ## 💬 Ask me about react, vue and gsap
 ## 📫 How to reach me ? h.409268349@gmail.com
 ## 👨‍💻 All of my projects are available at portfolio link
-## 📝 I regularly write articles on blog link
+## 📝 I regularly write articles on blog link!
 ## 📄 Know about my experiences resume link
 ## ⚡ Fun fact
-![html](https://user-images.githubusercontent.com/102245213/160132592-7a1ad0b5-55c6-4889-b335-adcf8eccadba.PNG)
+[screenshot-hammam2003 github io-2022 05 29-22_29_20](https://user-images.githubusercontent.com/102245213/170888949-ac4fdd48-1350-4b31-9048-1c3272935d4e.png)
